@@ -5,6 +5,7 @@ import (
 	"sync"
 )
 
+//////////////////// All about Log
 type Log struct {
 	mu      sync.Mutex
 	records []Record
