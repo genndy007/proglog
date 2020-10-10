@@ -1,0 +1,4 @@
+# Generated files
+*.pb.go
+# Makefile seems not to make but to error
+Makefile
